@@ -46,7 +46,7 @@
             &kp Z      &kp X      &kp C      &kp V      &kp B          &kp N      &kp M      &kp COMMA  &kp DOT    &kp FSLH
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
         //                                 │ L2 / TAB │  SPACE   │   │  ENTER   │ L1 / BSPC│
-                                            &lt 2 TAB   &kp SPACE      &kp ENTER  &lt 1 BSPC
+                                            &lt 1 TAB   &kp SPACE      &kp ENTER  &lt 1 BSPC
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
             >;
         };
